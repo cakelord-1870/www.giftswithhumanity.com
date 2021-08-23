@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/all-bracelets.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-08-11T05:03:43-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350315298895</id>
+    <published>2021-08-11T05:03:43-04:00</published>
+    <updated>2021-08-11T05:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-overlay-cuff-bracelet-four-bar-design"/>
+    <title>Alpaca Silver Overlay Cuff Bracelet - Four Bar Design</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f7a53c61-9a1b-464c-af62-9abb141f3113.jpg?v=1595251496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this classic cuff bracelet is skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately .75-inches wide.  </li>
+<li>Features a clean, simple 4-bar design. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350315298895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>UPA2019300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163701964879</id>
+    <published>2021-08-11T05:03:39-04:00</published>
+    <updated>2021-08-11T05:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-cuff-bracelet-wave"/>
+    <title>Alpaca Silver Wave Cuff Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/18ab1cb6-d85a-43f0-bb1e-8c6902226d54.jpg?v=1595251538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this wave cuff bracelet is skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately .5-inches wide.  </li>
+<li>Features a stylized wave design. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163701964879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>UPBTWS</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163701473359</id>
+    <published>2021-08-11T05:03:38-04:00</published>
+    <updated>2021-08-11T05:03:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-bracelet-mother-of-pearl-rings"/>
+    <title>Alpaca Silver Mother-of-Pearl Ring Link Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/030f7b11-d2b6-4391-8c3c-0f9a8fb0bea6.jpg?v=1595251518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this Mother-of-Pearl circle link bracelet is skillfully made by women artisans in Mexico. An eye-catching statement piece! </p><ul>
+<li>Measures: Large circles measure approximately 1-inch.</li>
+<li>Bracelet measures approximately 8-inches. </li>
+<li>Toggle closure. </li>
+<li>Natural, iridescent sheen from Mother-of-Pearl shell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163701473359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>UPBMOPR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443504353359</id>
+    <published>2021-07-28T05:02:45-04:00</published>
+    <updated>2021-07-28T05:02:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/copper-and-brass-cuff-bracelet-healing-chant-dzi-j-1"/>
+    <title>Copper and Brass Cuff Bracelet: Healing Mantra</title>
+    <s:type>Misc</s:type>
+    <s:vendor>dZi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/c343b59f-5ba7-47b1-a1b3-eb6ad06c3266_05ddc6c8-0d1e-4dd0-ab17-99d9c1e74e31.jpg?v=1576007858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dZi<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            17.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade from copper, brass and alloys each bracelet is uniquely handmade by skilled craftspeople in Nepal according to traditional methods handed down from multiple generations of family artisans. Measures 0.6 inches wide.                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boho Accessories</s:tag>
+    <s:tag>Boho Bracelets</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>dZi</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:DZI</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443504353359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.60</s:price>
+      <s:sku>DZI314022000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443502780495</id>
+    <published>2021-07-28T05:02:43-04:00</published>
+    <updated>2021-07-28T05:02:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/copper-and-brass-cuff-bracelet-healing-trinity-dzi-j"/>
+    <title>Copper and Brass Cuff Bracelet: Healing Trinity</title>
+    <s:type>Misc</s:type>
+    <s:vendor>dZi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f86546ea-7bc7-49b0-b76e-055031d25711_bc7112fb-7a02-420e-8619-e98851f06d0f.jpg?v=1576007929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dZi<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade from copper, brass and alloys each bracelet is uniquely handmade by skilled craftspeople in Nepal according to traditional methods handed down from multiple generations of family artisans. Measures 0.3 inches wide.               </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boho Accessories</s:tag>
+    <s:tag>Boho Bracelets</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>dZi</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:DZI</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443502780495</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.30</s:price>
+      <s:sku>DZI314117000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443502485583</id>
+    <published>2021-07-28T05:02:42-04:00</published>
+    <updated>2021-07-28T05:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/copper-and-brass-cuff-bracelet-healing-braid-dzi-j"/>
+    <title>Copper and Brass Cuff Bracelet: Healing Braid</title>
+    <s:type>Misc</s:type>
+    <s:vendor>dZi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/12a2bc7e-59ba-4f42-8a28-478d4f1c2b91_8fa57db6-f567-4be6-88f5-351d7e02e29b.jpg?v=1576007828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dZi<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            17.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade from copper, brass and alloys each bracelet is uniquely handmade by skilled craftspeople in Nepal according to traditional methods handed down from multiple generations of family artisans. Measures 0.7 inches wide.             </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boho Accessories</s:tag>
+    <s:tag>Boho Bracelets</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>dZi</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:DZI</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443502485583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.60</s:price>
+      <s:sku>DZI314018000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443502518351</id>
+    <published>2021-07-23T05:03:24-04:00</published>
+    <updated>2021-07-23T05:03:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/copper-and-brass-cuff-bracelet-healing-twist-dzi-j"/>
+    <title>Copper and Brass Cuff Bracelet: Healing Twist</title>
+    <s:type>Misc</s:type>
+    <s:vendor>dZi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/555c7f74-fc06-40db-926f-99a22f12eb07_298fa89d-3be6-4051-8265-10a4c10e91ea.jpg?v=1576007843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dZi<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade from copper, brass and alloys each bracelet is uniquely handmade by skilled craftspeople in Nepal according to traditional methods handed down from multiple generations of family artisans. Measures 0.3 inches wide.             </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boho Accessories</s:tag>
+    <s:tag>Boho Bracelets</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>dZi</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:DZI</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443502518351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.30</s:price>
+      <s:sku>DZI314021000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443361222735</id>
+    <published>2021-07-17T05:02:10-04:00</published>
+    <updated>2021-07-17T05:02:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/beaded-multicolored-4-strand-bracelet-zakali-creations"/>
+    <title>Beaded Multicolored 4 Strand Bracelet</title>
+    <s:type>Zakali Creations</s:type>
+    <s:vendor>Zakali Creations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/6dc40a07-5aae-4765-8736-2884b67a4087.jpg?v=1573235706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zakali Creations<br>
+        <strong>Type: </strong>Zakali Creations<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wearing this beautiful bracelet sets you apart as an important supporter of opportunity in the slums of Kenya where opportunity is scarce. These bracelets are beaded by hand with colorful beads by 15 young men and women find a sustainable income and a path out of the Nairobi slums. The five strand bracelet is about 8 inches in length and has lots of beads on it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>V:Various Artists</s:tag>
+    <s:tag>Zakale Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443361222735</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>ZCB001A-214070</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443503108175</id>
+    <published>2021-06-25T05:03:16-04:00</published>
+    <updated>2021-06-25T05:03:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/copper-and-brass-cuff-bracelet-healing-shiva-dzi-j"/>
+    <title>Copper and Brass Cuff Bracelet: Healing Shiva</title>
+    <s:type>Misc</s:type>
+    <s:vendor>dZi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/4017552e-f8fe-4143-a544-05d12dcfc628.jpg?v=1589309103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>dZi<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            17.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade from copper, brass and alloys each bracelet is uniquely handmade by skilled craftspeople in Nepal according to traditional methods handed down from multiple generations of family artisans. Measures 0.6 inches wide.                        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boho Accessories</s:tag>
+    <s:tag>Boho Bracelets</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>dZi</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:DZI</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443503108175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.60</s:price>
+      <s:sku>DZI314122000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793538639</id>
+    <published>2021-03-11T05:08:10-05:00</published>
+    <updated>2021-03-11T05:08:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/elephant-brass-bracelet"/>
+    <title>Elephant Brass Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f6a05930-98f0-4ac0-a6fa-c7d928cb2077.jpg?v=1598910924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stylized elephant is sure to add a little good luck along with minimalist charm to every arm.</p><ul>
+<li> Measures approximately 7.75-inches in length.</li>
+<li> Brass.</li>
+<li>Polished finish, which may contain minor nuances. This gives each piece unique detail to the charm and should not be considered a defect in craftsmanship. </li>
+</ul><p><strong>The story behind the art:</strong> </p><p>Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793538639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>IX10ORX9094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163701276751</id>
+    <published>2021-01-28T05:07:54-05:00</published>
+    <updated>2021-01-28T05:07:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-bracelet-abalone-butterflies"/>
+    <title>Alpaca Silver Abalone Butterflies Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/0b7c0363-1890-4e31-9d80-9ad1170115c1.jpg?v=1595251508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this butterfly bracelet with abalone wings is skillfully made by women artisans in Mexico.  Butterflies are linked together to create chain bracelet. </p><ul>
+<li>Measures: Butterflies measure approximately 1-inch. </li>
+<li>Bracelet measures approximately 7.25-inches. </li>
+<li>Toggle closure. </li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, an organic gemstone harvested from sea-life. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163701276751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UPBABTR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350333976655</id>
+    <published>2019-11-08T12:57:37-05:00</published>
+    <updated>2019-11-08T12:57:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/red-tiger-eye-reflections-copper-and-brass-cuff"/>
+    <title>Red Tiger Eye Reflections Copper and Brass Cuff</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Brass Images</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e0cba005-3992-4446-9e77-21498eed36b6_1cb648cf-b84b-4634-a9a5-b8dd593f8874.jpg?v=1573253860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brass Images<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted by South African artisans, this brass cuff takes features a copper and brass design accented with a red tigers eye. The feathering and color on this 1.5-inch bracelet is achieved by applying extreme heat rather than paints or dyes.      </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Brass Images</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>South Africa</s:tag>
+    <s:tag>V:Brass Images</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350333976655</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>BRI:BL-682-220217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4127072256079</id>
+    <published>2019-09-25T11:20:53-04:00</published>
+    <updated>2019-09-25T11:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/ten-turn-bead-and-bone-bracelet-greens-blues"/>
+    <title>Ten Turn Bead and Bone Bracelet - Greens &amp; Blues</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Community Friendly Movement</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/56358a32-3830-46f2-9bdf-e4f42bee8a5a_b966b8c5-0ed5-4215-95d5-db2c5498cf75.jpg?v=1573233045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Community Friendly Movement<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in India by The Community Friendly Movement, a member of the WFTO, this bracelet is made of primarily bone beads on wire and accented with metal and glass beads. This bracelet has 10 turns of beads.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Community Friendly Movement</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Various Artists</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4127072256079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>IJB001-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443400413263</id>
+    <published>2019-03-07T12:41:25-05:00</published>
+    <updated>2019-03-07T12:41:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/red-tiger-eye-reflections-copper-and-brass-cuff-brass-images-c"/>
+    <title>Red Tiger Eye Reflections Copper and Brass Cuff</title>
+    <s:type>Brass Images</s:type>
+    <s:vendor>Brass Images</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e0cba005-3992-4446-9e77-21498eed36b6.jpg?v=1573229483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brass Images<br>
+        <strong>Type: </strong>Brass Images<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted by South African artisans, this brass cuff  features a copper and brass design accented with a red tiger eye. The feathering and color on this 1.5-inch bracelet is achieved by applying extreme heat rather than paints or dyes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Brass Images</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>South Africa</s:tag>
+    <s:tag>V:Brass Images</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443400413263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>BL-682-220217</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+</feed>

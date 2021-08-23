@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/kids-decor.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-07-02T05:03:37-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779862196303</id>
+    <published>2021-07-02T05:03:37-04:00</published>
+    <updated>2021-07-02T05:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/soapstone-tiny-hippos-assorted-pack-of-5-colors"/>
+    <title>Soapstone Tiny Hippos - Assorted Pack of 5 Colors</title>
+    <s:type>Home</s:type>
+    <s:vendor>SMOLArt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/da43ca73-f76e-424f-b957-17ea7c850cf9.jpg?v=1599240291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOLArt<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            14.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carved from soapstone in Western Kenya, this pack of 5 Hippos are colorful and whimsical to brighten up the smallest spaces.  Each measures approximately 2 inches tall.</p><ul><li>Colors will vary based on availability, but five unique colors will be provided for each set. Photos represent a variety of colors that may be included. </li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779862196303</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.85</s:price>
+      <s:sku>KSASMHIPPO-5PK_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779861803087</id>
+    <published>2021-07-02T05:03:36-04:00</published>
+    <updated>2021-07-02T05:03:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/soapstone-tiny-elephants-assorted-pack-of-5-colors"/>
+    <title>Soapstone Tiny Elephants - Assorted Pack of 5 Colors</title>
+    <s:type>Home</s:type>
+    <s:vendor>SMOLArt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/66cee637-c052-40c8-8479-46cac1ce6a18.jpg?v=1599240277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOLArt<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            14.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carved from soapstone in Western Kenya, this pack of 5 lucky Elephants are colorful and whimsical to brighten up the smallest spaces.  Each measures approximately 2 inches tall.</p><ul><li>Colors will vary based on availability, but five unique colors will be provided for each set. Photos represent a variety of colors that may be included. </li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779861803087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.85</s:price>
+      <s:sku>KSASMELE-5PK_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369845157967</id>
+    <published>2021-07-02T05:03:29-04:00</published>
+    <updated>2021-07-02T05:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/soapstone-heart-bowl-medium-yellow"/>
+    <title>Soapstone Heart Bowl - Medium Yellow</title>
+    <s:type>Home</s:type>
+    <s:vendor>SMOLArt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/d4e02f3d-1732-40ff-b6bb-62fbabbaf24b.jpg?v=1573855687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOLArt<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these soapstone heart bowls make a great trinket dish to brighten up your nightstand, dresser, coffetable or office desk!  </p><ul>
+<li>Measures approximately 5-inches. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bowls &amp; Decor</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Decor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369845157967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>KSAHBM-YW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369844043855</id>
+    <published>2021-07-02T05:03:28-04:00</published>
+    <updated>2021-07-02T05:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/soapstone-heart-bowl-medium-green"/>
+    <title>Soapstone Heart Bowl - Medium Green</title>
+    <s:type>Home</s:type>
+    <s:vendor>SMOLArt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/800c5981-0f1c-4e7d-8ad2-e9662632e7cd.jpg?v=1573855662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOLArt<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these soapstone heart bowls make a great trinket dish to brighten up your nightstand, dresser, coffetable or office desk!  </p><ul>
+<li>Measures approximately 5-inches. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bowls &amp; Decor</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Decor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369844043855</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>KSAHBM-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443377999951</id>
+    <published>2021-07-02T05:03:21-04:00</published>
+    <updated>2021-07-02T05:03:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/handcrafted-5-inch-soapstone-sitting-cat-sculpture-in-yellow-smolart"/>
+    <title>5-inch Soapstone Sitting Cat Sculpture in Yellow</title>
+    <s:type>Soapstone</s:type>
+    <s:vendor>Smolart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/213ed2f3-ca77-4aba-8629-a8b732621ff5.jpg?v=1573233555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smolart<br>
+        <strong>Type: </strong>Soapstone<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these whimsical cat statues will brighten up even the smallest of spaces!  </p><ul>
+<li>Measures approximately 5-inches tall. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443377999951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>KSASCAT-Y</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4815350399055</id>
+    <published>2021-04-07T05:06:40-04:00</published>
+    <updated>2021-04-07T05:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/handcrafted-felt-fairy-house"/>
+    <title>Handcrafted Felt Fairy House</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/4ee4dd50-be7c-444b-b200-9901a6530f68_a9b4b4c4-59cf-443f-9e6f-610deece5eb3.jpg?v=1603371184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A secret floral hideout for fairies! The roof lifts off for hiding your secret treasures and fairies. Handmade by women artisans in Nepal. </p><ul>
+<li>Includes one Flower Fairy to start your collection. </li>
+<li>Measures approximately: 13 inches high x 7 inches wide.</li>
+<li> 100% All Natural New Zealand Wool.
+</li>
+<li>Azo-free dyes.
+</li>
+<li>Due to the handmade nature, slight variations in size, exact color, shape, pattern, or other characteristics may be evident. Each piece is truly a unique work of art, lovingly crafted by hand.
+</li>
+</ul><p><strong>The Art of Felting:</strong>
+
+</p><p>The first step to creating these beautiful felt pieces begins with gathering some of the world’s finest sheep’s wool from New Zealand. Making felted wool is an ages-old, time-consuming process of bonding fabric with fiber. This is a physical job where the artisan’s scrub, rub, roll and rinse the wool again and again with soapy water.
+
+Once the wool is bound into a sheet and the desired thickness is complete, the felt is laid out to dry. </p><p>From there, the felt wool is cut and re-worked into many complex shapes and designs. The many sheets of wool might merge several colors to create patterns and layers. This takes a well-trained, talented artisan and is a true labor of love. The end results are colorful, one-of-a-kind textiles that are stunning to behold. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4815350399055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>GLG2303-02</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350346297423</id>
+    <published>2021-04-07T05:06:39-04:00</published>
+    <updated>2021-04-07T05:06:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-hearts-garland-grey"/>
+    <title>Hand Crafted Felt from Nepal: Hearts Garland, Grey</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e3b2589a-8680-4bb0-89de-d340ef4efbf6_9d62aa3b-34c9-4fbb-ba50-b101070a7f31.jpg?v=1603372061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This handmade garland made by women in Nepal is foot in length and features felt hearts and pom poms.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350346297423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>GLG60062-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4742420496463</id>
+    <published>2021-04-03T05:09:38-04:00</published>
+    <updated>2021-04-03T05:09:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/handmade-4-inch-brick-orange-soapstone-love-cats-sculpture"/>
+    <title>Handmade 4-inch Brick Orange Soapstone Love Cats Sculpture</title>
+    <s:type>Misc</s:type>
+    <s:vendor>SMOLArt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/a0e7db4b-3ad5-4cc2-b893-ac310dbc8d98.jpg?v=1595447286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOLArt<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these whimsical twin cat statues will brighten up even the smallest of spaces!  </p><ul>
+<li>Measures approximately 4-inches tall. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4742420496463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>KSATCAT-O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350347313231</id>
+    <published>2021-04-03T05:09:15-04:00</published>
+    <updated>2021-04-03T05:09:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-sweet-dreams-garland-pink-lavender-turquoise"/>
+    <title>Hand Crafted Felt from Nepal: Sweet Dreams Garland, Pink/Lavender/Turquoise</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/8b11a8f5-eb3b-4774-8253-5679a567b5b2_842d2a57-ed3e-4bad-ab85-4dbb5ab51033.jpg?v=1603372074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland features a sweet message to send your little one off to sleep.  Letters are 2 inches long and garland is 45 inches in length with loops for hanging.  Handmade in Nepal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350347313231</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>GLG60063-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443533647951</id>
+    <published>2021-04-03T05:08:06-04:00</published>
+    <updated>2021-04-03T05:08:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/small-felt-castle-global-groove"/>
+    <title>Small Felt Castle</title>
+    <s:type>Kids Accessories</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/9e4d879a-9c5d-49de-850d-cee0e3e6b4c4.jpg?v=1603371459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Kids Accessories<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cute felt castle has a base of 4 inches round and the tower is 7.5 inches tall. Made from natural wool with Azo-Free dyes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boy</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443533647951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>GLG40002-01-900111</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443533254735</id>
+    <published>2021-04-03T05:08:05-04:00</published>
+    <updated>2021-04-03T05:08:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/large-felt-castle-with-red-roof-global-groove"/>
+    <title>Large Felt Castle with Red Roof</title>
+    <s:type>Kids Accessories</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/bcdeda7f-8f12-482a-98f7-6dfa102da9dd.jpg?v=1603371461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Kids Accessories<br>
+        <strong>Price: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cute felt castle has a base of 18 inches round and the tower is 11 inches tall. Made from natural wool with Azo-Free dyes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boy</s:tag>
+    <s:tag>Dragon</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443533254735</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>GLG40003-01-241369</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443377672271</id>
+    <published>2021-04-03T05:07:10-04:00</published>
+    <updated>2021-04-03T05:07:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/handcrafted-4-inch-soapstone-love-cats-sculpture-in-yellow-smolart"/>
+    <title>4-inch Soapstone Love Cats Sculpture in Yellow</title>
+    <s:type>Soapstone</s:type>
+    <s:vendor>Smolart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/a8a2fc7c-4bc0-4ce2-ac75-50178038cd2a.jpg?v=1573233563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smolart<br>
+        <strong>Type: </strong>Soapstone<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these whimsical twin cat statues will brighten up even the smallest of spaces!  </p><ul>
+<li>Measures approximately 4-inches tall. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443377672271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>KSATCAT-Y</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443377606735</id>
+    <published>2021-04-03T05:07:09-04:00</published>
+    <updated>2021-04-03T05:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/handcrafted-4-inch-soapstone-love-cats-sculpture-in-red-smolart"/>
+    <title>4-inch Soapstone Love Cats Sculpture in Red</title>
+    <s:type>Soapstone</s:type>
+    <s:vendor>Smolart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f8fbb391-651a-44e4-8332-ec20e561557e.jpg?v=1573233560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smolart<br>
+        <strong>Type: </strong>Soapstone<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-carved from a single piece of Kisii soapstone by African artisans, these whimsical twin cat statues will brighten up even the smallest of spaces!  </p><ul>
+<li>Measures approximately 4-inches tall. /li&gt;</li>
+<li>Hand-painted.</li>
+<li>Soapstone is a soft, natural mineral from the earth, making it easy to carve into many forms. Handle with care to avoid breakage. </li>
+<li>Each piece has gone through multiple stages of sanding and waxing, giving the soapstone a satiny finish.</li>
+<li>Socially responsible products that empower consumers to purchase according to their values and help alleviate global poverty.</li>
+<li>Fair Trade is an alternative business model that values safe workplaces, fair wages and community investment for factory employees. </li>
+</ul><p><strong>Story Behind the Art:</strong></p><p>Each sculpture is artfully hand-carved from a single piece of Kisii soapstone, found only in the hills of southwestern Kenya. Mining the soapstone from surface hills is a labor-intensive process, using little to no machinery. Laborers works with shovels, picks, axes and machetes to carve out large soapstone chucks, which are then carved into beautiful art. ?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Décor</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>SMOLArt</s:tag>
+    <s:tag>Soapstone</s:tag>
+    <s:tag>V:SMOLArt</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443377606735</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>KSATCAT-R</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4815275262031</id>
+    <published>2021-02-03T05:08:18-05:00</published>
+    <updated>2021-02-03T05:08:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/sleepy-sloth-felt-nursery-mobile"/>
+    <title>Sleepy Sloth Felt Nursery Mobile</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e8b727ad-07bc-4556-b96a-0cd4f784d539_4d91831d-50b0-47b2-aee9-c279f6b3c2a8.jpg?v=1603371448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautifully hand-felted by women artisans in Nepal, this mobile room decor with serene sloths will help your little one doze off to sleep. </p><ul>
+<li>Measures approximately 6 inches x 19 inches.</li>
+<li>100% All Natural New Zealand Wool.
+</li>
+<li>Azo-free dyes.</li>
+<li>
+Due to the handmade nature, slight variations in size, exact color, shape, pattern, or other characteristics may be evident. Each piece is truly a unique work of art, lovingly crafted by hand.
+</li>
+</ul><p><strong>The Art of Felting:</strong>
+
+</p><p>The first step to creating these beautiful felt pieces begins with gathering some of the world’s finest sheep’s wool from New Zealand. Making felted wool is an ages-old, time-consuming process of bonding fabric with fiber. This is a physical job where the artisan’s scrub, rub, roll and rinse the wool again and again with soapy water.
+</p><p>
+Once the wool is bound into a sheet and the desired thickness is complete, the felt is laid out to dry. From there, the felt wool is cut and re-worked into many complex shapes and designs. The many sheets of wool might merge several colors to create patterns and layers. This takes a well-trained, talented artisan and is a true labor of love. The end results are colorful, one-of-a-kind textiles that are stunning to behold. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Mobiles</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4815275262031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>GLG2427-01</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369706811471</id>
+    <published>2021-02-03T05:08:13-05:00</published>
+    <updated>2021-02-03T05:08:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-white-black-gray-1"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, White/Black/Gray</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/3a91f482-80e9-4d00-a542-cf8a66c6cf19.jpg?v=1603372114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369706811471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>GLG60064-05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369705762895</id>
+    <published>2021-02-03T05:08:12-05:00</published>
+    <updated>2021-02-03T05:08:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-dark-grey-pink-1"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, Dark Grey/Pink</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/bfc37e0b-34ab-489a-98d3-4e22c4913de6_65c8123c-59cc-417b-b073-2e27b2e38633.jpg?v=1603372106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369705762895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>GLG60064-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369702682703</id>
+    <published>2021-02-03T05:08:11-05:00</published>
+    <updated>2021-02-03T05:08:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-grey-blue-1"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, Grey/Blue</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7b135265-362c-470b-8ebb-744be1173432.jpg?v=1603372090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369702682703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>GLG60064-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331541594191</id>
+    <published>2021-02-03T05:08:06-05:00</published>
+    <updated>2021-02-03T05:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-white-black-gray"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, White/Black/Gray</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/3a91f482-80e9-4d00-a542-cf8a66c6cf19_2fe06697-28e7-4d08-a917-dfa28cc8b717.jpg?v=1603372119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical &amp; Playful</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331541594191</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>GLG60064-05-S2-GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331541299279</id>
+    <published>2021-02-03T05:08:05-05:00</published>
+    <updated>2021-02-03T05:08:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-dark-grey-pink"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, Dark Grey/Pink</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/bfc37e0b-34ab-489a-98d3-4e22c4913de6.jpg?v=1603372110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical &amp; Playful</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331541299279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>GLG60064-04-S2-GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331540807759</id>
+    <published>2021-02-03T05:08:04-05:00</published>
+    <updated>2021-02-03T05:08:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-grey-blue"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, Grey/Blue</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7b135265-362c-470b-8ebb-744be1173432_22b10f0b-39db-45b5-96e7-8f97c0174c62.jpg?v=1603372094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical &amp; Playful</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331540807759</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>GLG60064-02-S2-GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443477188687</id>
+    <published>2021-02-03T05:07:44-05:00</published>
+    <updated>2021-02-03T05:07:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/felted-strawberry-fairy-house"/>
+    <title>Felted Strawberry Fairy House</title>
+    <s:type>Games</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/728d3365-7ccb-4f0d-9386-96d432763f3b_cbefecfd-6f1f-41d3-9ba3-0f4d79b083c9.jpg?v=1603371232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Games<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From Nepal, this hand-felted tiny dream house, includes a flower fairy. The roof opens on one side so that fairies and other treasures can be stored inside. Measures 11 inches tall by 5 inches wide.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443477188687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>GLG2353-133014</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443441504335</id>
+    <published>2021-02-03T05:07:43-05:00</published>
+    <updated>2021-02-03T05:07:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/felted-tiny-dream-house-global-groove"/>
+    <title>Felted Tiny Dream House</title>
+    <s:type>Games</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/adff363b-2344-4df5-9775-09bedccfd41b_7077c2f3-4182-4b3e-9a3f-5c3e624bce0a.jpg?v=1603371190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Games<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hand-felted tiny dream house. For holding treasures or just for play. Flower Fairy included. <br>5.5 inches x 4 inches x 6 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443441504335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>GLG2305-596030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443434819663</id>
+    <published>2021-02-03T05:07:42-05:00</published>
+    <updated>2021-02-03T05:07:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/felted-fairy-house-global-groove"/>
+    <title>Felted Fairy House</title>
+    <s:type>Games</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/31ea56f9-c95c-4df0-b6ce-e6114c614b40.jpg?v=1603371187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Games<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So darn cute, this unique and fun fairy house is hand-felted 100% all-natural wool with lilac base and forest-moss roof. The roof lifts off for hiding secrets or fairies. Measures 15 inches high, 6 inches diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Fairies &amp; Castles</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Girl</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Decor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443434819663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>GLG2303-596011</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4369701208143</id>
+    <published>2020-11-24T05:05:37-05:00</published>
+    <updated>2020-11-24T05:05:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-pom-pom-garlands-blue-grey-yellow-1"/>
+    <title>Hand Crafted Felt from Nepal: Pom Pom Garlands, Blue/Grey/Yellow</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/fb0a0fef-6a28-4c2b-bec4-d69a5edcab24.jpg?v=1603372081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted garland is 5 feet in length and features 1 inch colored pom poms.  Includes loops on each end for hanging.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4369701208143</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>GLG60064-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350345543759</id>
+    <published>2020-11-24T05:05:35-05:00</published>
+    <updated>2020-11-24T05:05:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-stars-garland-grey-blue"/>
+    <title>Hand Crafted Felt from Nepal: Stars Garland, Grey/Blue</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/242e290b-002e-4199-92b2-0a091261f933.jpg?v=1603372047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This handmade garland made by women in Nepal is foot in length and features felt stars and pom poms.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Garlands</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Décor</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Nursery</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350345543759</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>GLG60061-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

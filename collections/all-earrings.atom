@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/all-earrings.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-08-11T05:03:49-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4849194500175</id>
+    <published>2021-08-11T05:03:49-04:00</published>
+    <updated>2021-08-11T05:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/turquoise-abalone-stripe-teardrop-earrings"/>
+    <title>Turquoise &amp; Abalone Stripe Teardrop Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7683d439-2345-4f49-ad6a-2f102cc8ebd5.jpg?v=1608822498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, man-made turquoise and abalone teardrop earrings shimmer with the beauty of natural shell. </p><ul>
+<li>Measures: Approximately xxxx in length.</li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4849194500175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UPC202052</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4849191518287</id>
+    <published>2021-08-11T05:03:48-04:00</published>
+    <updated>2021-08-11T05:03:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/tulip-abalone-teardrop-earrings"/>
+    <title>Tulip Abalone Teardrop Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/88fc6a45-7fcb-4f46-800f-780deee2215a.jpg?v=1608821716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these tulip-shaped abalone teardrop earrings shimmer with the beauty of natural shell. </p><ul>
+<li>Measures: Approximately xxxx pendant. </li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4849191518287</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP2020152</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201325647</id>
+    <published>2021-08-11T05:03:47-04:00</published>
+    <updated>2021-08-11T05:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/tumbaga-gold-birds-in-flight-drop-earrings"/>
+    <title>Tumbaga Gold Birds in Flight Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/d5275a1a-205a-4f0a-a075-f6e1954bc7c0.jpg?v=1604670964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in gold and copper tumbaga, these delicate birds in flight earrings are skillfully made by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 2-inches by 1.5-inches.</li>
+<li>Tumbagaan alloy used in pre-Columbian times from Mesoamerica to Peru and Chile, is a combination of gold and copper. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.<br><span style='color: rgb(82, 82, 82); font-family: "Times New Roman"; background-color: rgb(255, 255, 255);'></span>
+</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, silver, tumbaga and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bird</s:tag>
+    <s:tag>Birds</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201325647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>UP202022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201227343</id>
+    <published>2021-08-11T05:03:47-04:00</published>
+    <updated>2021-08-11T05:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/abalone-diamond-shaped-dangle-earrings"/>
+    <title>Abalone Diamond Shaped Dangle Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/8ccd5894-46e3-45c2-958d-f42d756943d1.jpg?v=1604670942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver by woman artisans in Mexico, these beautiful abalone shell earrings are set in skillfully designed metalwork. </p><ul>
+<li>Measures: Approximately 2-inches by .5-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201227343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP202006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201129039</id>
+    <published>2021-08-11T05:03:46-04:00</published>
+    <updated>2021-08-11T05:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/abalone-and-mother-of-pearl-teardrop-earrings"/>
+    <title>Abalone and Mother of Pearl Teardrop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/a82ee8ce-a0e8-4826-92c8-b9e5f6a3fd2a.jpg?v=1604670928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful abalone and Mother-of-Pearl shell earrings are set in artfully designed metalwork by woman artisans in Mexico, </p><ul>
+<li>Measures: Approximately 2-inches in length. </li>
+<li>Sterling silver hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen of Mother-of-Pearl and bold colors of abalone shell, which is an organic gemstone harvested from sea-life. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201129039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP2020-006</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4415724781647</id>
+    <published>2021-08-11T05:03:44-04:00</published>
+    <updated>2021-08-11T05:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/yellow-flower-nahua-earrings-with-alpaca-silver"/>
+    <title>Alpaca Silver Pressed Yellow Flower Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/407cb3ec-28ea-42b2-8ea3-b39dc6797264_bcdf5314-d892-42df-8ebb-03bdb0c1e9d4.jpg?v=1595251489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring real dried flowers, these translucent earrings offer a one-of-a-kind beauty to each piece. Grown in the fields of the Taxco region in Mexico, these miniature flowers are gathered by hand and preserved permanently in resin surrounded in an Alpaca silver setting by women artisans in Mexico. The natural properties of real flowers provides a one-of-a-kind look to each piece. </p><ul>
+<li>Earrings measure 1.5-inches long by .75-inch wide.</li>
+<li>Sterling silver hooks. </li>
+<li>Flowers are dried and then forever preserved in top-quality clear resin, giving the jewelry its vibrant, long-lasting appearance.</li>
+<li>The handmade nature of each piece may bring slight difference in actual flower color and composition.</li>
+</ul><p><span style="text-decoration: underline;"><strong>The story behind the art:</strong></span> </p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, alpaca silver, sterling silver, tumbaga gold and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4415724781647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>UPA2019271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350314577999</id>
+    <published>2021-08-11T05:03:43-04:00</published>
+    <updated>2021-08-11T05:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/pink-clam-shell-elongated-teardrop-earrings"/>
+    <title>Mulberry Clam Shell Long Teardrop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/32017385-1424-4b8d-a701-88f33556e61e_4d160cf2-b4b0-4704-b35f-c27b22bb039c.jpg?v=1595251426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful pink shell earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.25-inch by .25-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Iridescent shimmer from natural shell. Color may vary from light to darker pink due to the nature of the natural seashell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350314577999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2019260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350314381391</id>
+    <published>2021-08-11T05:03:42-04:00</published>
+    <updated>2021-08-11T05:03:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/pink-clam-shell-fan-drop-earrings"/>
+    <title>Raspberry Clam Shell Fan Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/23d5ed4e-40b6-4c87-9e92-ff118b5d0628.jpg?v=1595251418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful pink shell earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1-inch by .75-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen from shell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350314381391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2019259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163703767119</id>
+    <published>2021-08-11T05:03:42-04:00</published>
+    <updated>2021-08-11T05:03:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-turquoise-ovals"/>
+    <title>Alpaca Silver Turquoise Oval Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/9d6369ef-d339-4ce4-b23f-351a9bf00074.jpg?v=1595251582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these oval drop earrings are skillfully made by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.5-inches in length</li>
+<li>Sterling silver hypoallergenic posts. </li>
+<li>Man-made turquoise. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163703767119</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>UPETOV</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163703636047</id>
+    <published>2021-08-11T05:03:41-04:00</published>
+    <updated>2021-08-11T05:03:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-mother-of-pearl-crescent-moons"/>
+    <title>Crescent Moon Mother-of-Pearl Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/2b87caa7-699d-466a-821f-30f02994a11e.jpg?v=1595251574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality natural materials, these beautiful white shell crescent moon earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.5-inches in length x .5-inches wide. </li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Iridescent shimmer from natural shell. Color may vary from light to cream due to the nature of the natural seashell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163703636047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>UPESCRES</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163702685775</id>
+    <published>2021-08-11T05:03:40-04:00</published>
+    <updated>2021-08-11T05:03:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-natural-leaf-in-resin"/>
+    <title>Alpaca Silver Pressed Leaf Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ccc7e4c9-50be-4626-919c-0a6db5667511.jpg?v=1595251554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring real dried leaves, these translucent earrings are perfect for the nature lover. Grown in the fields of the Taxco region in Mexico, botanical pieces are gathered by hand and preserved permanently in resin by skilled women artisans in Mexico. The natural properties of real leaves provides a one-of-a-kind look to each piece. </p><ul>
+<li>Earrings measure 2-inches long by .75-inch wide.</li>
+<li>Sterling silver hooks. </li>
+<li>Leaves are dried and then forever preserved in top-quality clear resin, giving the jewelry its vibrant, long-lasting appearance.</li>
+<li>The handmade nature of each piece may bring slight difference in actual leaf color.</li>
+</ul><p><span style="text-decoration: underline;"><strong>The story behind the art:</strong></span> </p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, alpaca silver, sterling silver, tumbaga gold and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163702685775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>UPEAELL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4726497509455</id>
+    <published>2021-07-17T05:02:11-04:00</published>
+    <updated>2021-07-17T05:02:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/set-of-10-painted-tin-christmas-tree-earrings"/>
+    <title>Set of 10 Painted Tin Christmas Tree Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/13d0ad51-b9a6-4a5f-b292-db5fa4a8b5b0.jpg?v=1594410167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade in Kisumu, Kenya from misprinted sheets of bottle caps, these hand painted Christmas tree earrings are as cute as they come. The earrings hang 1.25 inches from hypoallergenic hooks. Perfect for small gifts for the office, social groups, teachers, parties, and stockings.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4726497509455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>KJWETR-S10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443369119823</id>
+    <published>2021-07-15T05:02:02-04:00</published>
+    <updated>2021-07-15T05:02:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/dancing-girl-pumpkin-earrings-creative-alternatives"/>
+    <title>Dancing Girl Pumpkin Earrings with Linen Gift Bag - The Takataka Collection</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/784480ac-9193-4bb8-90bd-e8d1100a2712.jpg?v=1581447361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delightful dancing girl earrings features a playful novelty design made from recycled tin can and copper wire,accented with colorful Maasai beads. earrings hang approximately 1.5 to 2 inches.     </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443369119823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>KJW017E-154030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163703504975</id>
+    <published>2021-04-21T05:06:12-04:00</published>
+    <updated>2021-04-21T05:06:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-sterling-silver-earrings-sterling-silver-black-square"/>
+    <title>Sterling Silver Black Square Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7d722dd4-e957-4092-8870-2a7d2523cbd3.jpg?v=1595251562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality sterling silver, these simply-classic stud earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately .25-inch square. </li>
+<li>Sterling silver hypoallergenic posts. </li>
+<li>Black &amp; silver color. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163703504975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>UPEBKSQ</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4726521200719</id>
+    <published>2021-04-03T05:09:36-04:00</published>
+    <updated>2021-04-03T05:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/set-of-10-dancing-girl-santa-earrings"/>
+    <title>Set of 10 Dancing Girl Santa Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f38e4515-6298-4d73-9842-3dace4c3c48f.jpg?v=1594412135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These cute recycled dancing girl earrings are made from painted sheets of misprinted bottle caps  and wire in Kisumu, Kenya. They hang 1.75 inches from hypoallergenic hooks. Perfect for small gifts for the office, social groups, teachers, parties, and holiday stockings.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4726521200719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>KJWESA-S10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4726480732239</id>
+    <published>2021-04-03T05:09:32-04:00</published>
+    <updated>2021-04-03T05:09:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/dancing-heart-earrings-and-pin-set-in-red"/>
+    <title>Dancing Heart Earrings and Pin Set in Red</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Gifts With Humanity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/4c7ba8d6-172d-4ea5-8c8d-795717151c92.jpg?v=1594408897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gifts With Humanity<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handmade by artists in Kenya, these delightful dancing heart earrings and matching pin are made from recycled tin and copper wire. Each piece is hand-painted and accented with colorful Maasai beads (bead color may vary). Maasai beads have a long and colorful tradition that reflect the strong culture of the Maasai women who represent the Kenyan tribe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COVID</s:tag>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:tag>VAL20</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4726480732239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>KJW00XH-K2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4463271313487</id>
+    <published>2021-04-03T05:09:25-04:00</published>
+    <updated>2021-04-03T05:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/set-of-10-dancing-heart-earrings-in-red"/>
+    <title>Set of 10 Dancing Heart Earrings in Red</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/fbbcabd0-b5f3-48bd-8c31-2901aded4b06.jpg?v=1580415452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delightful dancing heart earrings made from painted tin can and copper wire are accented with colorful Maasai beads. Earrings hang approximately 1.5 inches from lead free silver metal hooks. Set of 10.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4463271313487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>KJW004H-S10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4463238938703</id>
+    <published>2021-04-03T05:09:25-04:00</published>
+    <updated>2021-04-03T05:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/set-of-10-dancing-girl-heart-body-pins-in-red"/>
+    <title>Set of 10 Dancing Girl Heart Body Pins in Red</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/4ce3a7d1-04dc-479e-a3cb-adb6613bfc3a_64c03588-8c0f-4c22-8a01-d0b0f9a10d25.jpg?v=1580413555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delightful dancing girl pins made from painted tin can and copper wire are accented with colorful Maasai beads. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4463238938703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>KJW005H-S10-GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443412668495</id>
+    <published>2021-04-03T05:07:31-04:00</published>
+    <updated>2021-04-03T05:07:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/twisted-ribbon-brass-earrings-brass-images-e"/>
+    <title>Twisted Ribbon Brass Earrings</title>
+    <s:type>Brass Images</s:type>
+    <s:vendor>Brass Images</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ab7a0c09-90f1-4962-aff6-df0af127d701.jpg?v=1573231315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brass Images<br>
+        <strong>Type: </strong>Brass Images<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted by South African artisans, these  brass earrings are circular in shape and feature a brass scroll. The earrings are 1-inch in length and hang from brass hooks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass</s:tag>
+    <s:tag>Brass Images</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>South Africa</s:tag>
+    <s:tag>V:Brass Images</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443412668495</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>H-169b-232202</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443369709647</id>
+    <published>2021-04-03T05:07:04-04:00</published>
+    <updated>2021-04-03T05:07:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/dancing-girl-santa-earrings-creative-alternatives"/>
+    <title>Dancing Girl Santa Earrings with Linen Gift Bag - The Takataka Collection</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/96ea777b-f0d7-4af5-85ff-84bf0b16f3ec.jpg?v=1581449130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These cute recycled dancing girl earrings are made from painted sheets of misprinted bottle caps  and wire in Kisumu, Kenya. They hang 1.75 inches from hypoallergenic hooks.        </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443369709647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>KJWESA-154006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4121504251983</id>
+    <published>2021-03-20T05:06:10-04:00</published>
+    <updated>2021-03-20T05:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/earrings-18k-gold-plated-stainless-steel-fringe-dangle"/>
+    <title>Earrings: 18k Gold Plated Stainless Steel Fringe Dangle</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Starfish Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/98372b5e-74b1-4ef3-8d0d-88aeee51cd32_98b2e0ca-ce5b-408e-a950-c13951cc2f91.jpg?v=1573235688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starfish Project<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted 18k Gold-Plated sleek dangle earrings with stainless steel back. Each earring measures slightly smaller than 1.5 inch width. Drop is 2.25 inches.
+This purchase transforms lives. Jewelry proceeds help exploited women and girls experience freedom, establish independence and develop careers. 
+Helpful Tips:  Keep jewelry away from water and harsh chemicals; store separately in a soft pouch. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asia</s:tag>
+    <s:tag>Boho Earrings</s:tag>
+    <s:tag>Boho Jewelry</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Starfish Project</s:tag>
+    <s:tag>V:Starfish Project</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4121504251983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>YJSEFRD</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793374799</id>
+    <published>2021-03-11T05:08:09-05:00</published>
+    <updated>2021-03-11T05:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/elephant-brass-stud-earrings"/>
+    <title>Elephant Brass Stud Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/833f7fdd-5ff2-48ae-8f45-7487bd66fcc5.jpg?v=1598910914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These stylized elephant earrings are sure to add a little good luck along with minimalist charm to every outfit. Simple and perfect for your stay-at-home style. </p><ul>
+<li>Measures approximately 1.25-inches by 1-inch. </li>
+<li>Stud posts. Brass.</li>
+<li>Polished finish, which may contain minor nuances. This gives each piece unique detail to the charm and should not be considered a defect in craftsmanship. </li>
+</ul><p><strong>The story behind the art:</strong></p><p> Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793374799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>IX10ORX9084</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793112655</id>
+    <published>2021-02-03T05:08:14-05:00</published>
+    <updated>2021-02-03T05:08:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/honeybee-stud-earrings"/>
+    <title>Honeybee Stud Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/0d467ec0-9221-4b98-8090-5a816ff001a9.jpg?v=1598910904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The honeybee, whose world revolves around its colony, is a reminder to keep focused on creating harmony in our family and community. This brass honeybee ring makes a great reminder that everything is going to "bee" okay! </p><ul>
+<li>Brass, Silver plate with black antique finish.</li>
+<li>Post earrings. </li>
+</ul><p><strong>The story behind the art:</strong> </p><p>Re-imagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793112655</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>IX10ORX9079</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350315036751</id>
+    <published>2020-10-28T05:06:29-04:00</published>
+    <updated>2020-10-28T05:06:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/banded-abalone-oval-earrings"/>
+    <title>Lavendar Frost Abalone Oval Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7b0d4c4d-fe42-42fb-81d4-2365fcb393cf_d413a3f7-89bc-4a79-b4ec-8b28614874e4.jpg?v=1595251442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver by woman artisans in Mexico, these beautiful abalone shell earrings are set in skillfully designed metalwork. </p><ul>
+<li>Measures: Approximately 2-inches by 1-inch.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350315036751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2019460</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4726440329295</id>
+    <published>2020-10-27T05:05:56-04:00</published>
+    <updated>2020-10-27T05:05:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/set-of-10-bicycle-earrings"/>
+    <title>Set of 10 Bicycle Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/b389165a-cc43-4ac9-98ba-9757a3659796.jpg?v=1594405401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Shaped from recycled silver metal and copper wire, these bicycle earrings are approximately 1.5 inches wide and have a single glass bead near the hook.  Bead colors will vary. Perfect as small gifts for birthday parties, bridesmaids, social groups, teachers, and holiday stockings.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4726440329295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>KJW003-S10</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+</feed>

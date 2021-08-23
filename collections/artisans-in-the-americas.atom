@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/artisans-in-the-americas.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-08-11T05:03:49-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4849194500175</id>
+    <published>2021-08-11T05:03:49-04:00</published>
+    <updated>2021-08-11T05:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/turquoise-abalone-stripe-teardrop-earrings"/>
+    <title>Turquoise &amp; Abalone Stripe Teardrop Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7683d439-2345-4f49-ad6a-2f102cc8ebd5.jpg?v=1608822498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, man-made turquoise and abalone teardrop earrings shimmer with the beauty of natural shell. </p><ul>
+<li>Measures: Approximately xxxx in length.</li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4849194500175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UPC202052</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4849191518287</id>
+    <published>2021-08-11T05:03:48-04:00</published>
+    <updated>2021-08-11T05:03:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/tulip-abalone-teardrop-earrings"/>
+    <title>Tulip Abalone Teardrop Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/88fc6a45-7fcb-4f46-800f-780deee2215a.jpg?v=1608821716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these tulip-shaped abalone teardrop earrings shimmer with the beauty of natural shell. </p><ul>
+<li>Measures: Approximately xxxx pendant. </li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4849191518287</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP2020152</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201325647</id>
+    <published>2021-08-11T05:03:47-04:00</published>
+    <updated>2021-08-11T05:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/tumbaga-gold-birds-in-flight-drop-earrings"/>
+    <title>Tumbaga Gold Birds in Flight Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/d5275a1a-205a-4f0a-a075-f6e1954bc7c0.jpg?v=1604670964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in gold and copper tumbaga, these delicate birds in flight earrings are skillfully made by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 2-inches by 1.5-inches.</li>
+<li>Tumbagaan alloy used in pre-Columbian times from Mesoamerica to Peru and Chile, is a combination of gold and copper. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.<br><span style='color: rgb(82, 82, 82); font-family: "Times New Roman"; background-color: rgb(255, 255, 255);'></span>
+</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, silver, tumbaga and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bird</s:tag>
+    <s:tag>Birds</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201325647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>UP202022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201227343</id>
+    <published>2021-08-11T05:03:47-04:00</published>
+    <updated>2021-08-11T05:03:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/abalone-diamond-shaped-dangle-earrings"/>
+    <title>Abalone Diamond Shaped Dangle Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/8ccd5894-46e3-45c2-958d-f42d756943d1.jpg?v=1604670942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver by woman artisans in Mexico, these beautiful abalone shell earrings are set in skillfully designed metalwork. </p><ul>
+<li>Measures: Approximately 2-inches by .5-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen and bold colors of abalone shell, which is an organic gemstone harvested from sealife. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201227343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP202006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4826201129039</id>
+    <published>2021-08-11T05:03:46-04:00</published>
+    <updated>2021-08-11T05:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/abalone-and-mother-of-pearl-teardrop-earrings"/>
+    <title>Abalone and Mother of Pearl Teardrop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/a82ee8ce-a0e8-4826-92c8-b9e5f6a3fd2a.jpg?v=1604670928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful abalone and Mother-of-Pearl shell earrings are set in artfully designed metalwork by woman artisans in Mexico, </p><ul>
+<li>Measures: Approximately 2-inches in length. </li>
+<li>Sterling silver hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen of Mother-of-Pearl and bold colors of abalone shell, which is an organic gemstone harvested from sea-life. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4826201129039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>UP2020-006</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4513470677071</id>
+    <published>2021-08-11T05:03:45-04:00</published>
+    <updated>2021-08-11T05:03:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/wide-red-jasper-and-silver-ring-size-8"/>
+    <title>Alpaca Silver Wrap Red Jasper Ring - Size 8</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f5403937-5c7f-44d9-95a8-db5d64161894_c0ab1a7d-6564-4bae-b2a6-47bb87c6bf38.jpg?v=1595251475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this statement ring features man-made red jasper. Skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately 1-inch in length by .75-inches wide. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4513470677071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>UP2020243-8_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4415724781647</id>
+    <published>2021-08-11T05:03:44-04:00</published>
+    <updated>2021-08-11T05:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/yellow-flower-nahua-earrings-with-alpaca-silver"/>
+    <title>Alpaca Silver Pressed Yellow Flower Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/407cb3ec-28ea-42b2-8ea3-b39dc6797264_bcdf5314-d892-42df-8ebb-03bdb0c1e9d4.jpg?v=1595251489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring real dried flowers, these translucent earrings offer a one-of-a-kind beauty to each piece. Grown in the fields of the Taxco region in Mexico, these miniature flowers are gathered by hand and preserved permanently in resin surrounded in an Alpaca silver setting by women artisans in Mexico. The natural properties of real flowers provides a one-of-a-kind look to each piece. </p><ul>
+<li>Earrings measure 1.5-inches long by .75-inch wide.</li>
+<li>Sterling silver hooks. </li>
+<li>Flowers are dried and then forever preserved in top-quality clear resin, giving the jewelry its vibrant, long-lasting appearance.</li>
+<li>The handmade nature of each piece may bring slight difference in actual flower color and composition.</li>
+</ul><p><span style="text-decoration: underline;"><strong>The story behind the art:</strong></span> </p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, alpaca silver, sterling silver, tumbaga gold and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4415724781647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>UPA2019271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350315298895</id>
+    <published>2021-08-11T05:03:43-04:00</published>
+    <updated>2021-08-11T05:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-overlay-cuff-bracelet-four-bar-design"/>
+    <title>Alpaca Silver Overlay Cuff Bracelet - Four Bar Design</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f7a53c61-9a1b-464c-af62-9abb141f3113.jpg?v=1595251496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this classic cuff bracelet is skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately .75-inches wide.  </li>
+<li>Features a clean, simple 4-bar design. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350315298895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>UPA2019300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350314577999</id>
+    <published>2021-08-11T05:03:43-04:00</published>
+    <updated>2021-08-11T05:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/pink-clam-shell-elongated-teardrop-earrings"/>
+    <title>Mulberry Clam Shell Long Teardrop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/32017385-1424-4b8d-a701-88f33556e61e_4d160cf2-b4b0-4704-b35f-c27b22bb039c.jpg?v=1595251426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful pink shell earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.25-inch by .25-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Iridescent shimmer from natural shell. Color may vary from light to darker pink due to the nature of the natural seashell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350314577999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2019260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350314381391</id>
+    <published>2021-08-11T05:03:42-04:00</published>
+    <updated>2021-08-11T05:03:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/pink-clam-shell-fan-drop-earrings"/>
+    <title>Raspberry Clam Shell Fan Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/23d5ed4e-40b6-4c87-9e92-ff118b5d0628.jpg?v=1595251418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these beautiful pink shell earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1-inch by .75-inches.</li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Natural, iridescent sheen from shell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350314381391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2019259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163703767119</id>
+    <published>2021-08-11T05:03:42-04:00</published>
+    <updated>2021-08-11T05:03:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-turquoise-ovals"/>
+    <title>Alpaca Silver Turquoise Oval Drop Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/9d6369ef-d339-4ce4-b23f-351a9bf00074.jpg?v=1595251582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, these oval drop earrings are skillfully made by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.5-inches in length</li>
+<li>Sterling silver hypoallergenic posts. </li>
+<li>Man-made turquoise. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163703767119</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>UPETOV</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163703636047</id>
+    <published>2021-08-11T05:03:41-04:00</published>
+    <updated>2021-08-11T05:03:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-mother-of-pearl-crescent-moons"/>
+    <title>Crescent Moon Mother-of-Pearl Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/2b87caa7-699d-466a-821f-30f02994a11e.jpg?v=1595251574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality natural materials, these beautiful white shell crescent moon earrings are skillfully designed by women artisans in Mexico. </p><ul>
+<li>Measures: Approximately 1.5-inches in length x .5-inches wide. </li>
+<li>Sterling silver, hypoallergenic hooks.</li>
+<li>Iridescent shimmer from natural shell. Color may vary from light to cream due to the nature of the natural seashell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163703636047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>UPESCRES</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163702685775</id>
+    <published>2021-08-11T05:03:40-04:00</published>
+    <updated>2021-08-11T05:03:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-earrings-natural-leaf-in-resin"/>
+    <title>Alpaca Silver Pressed Leaf Earrings</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ccc7e4c9-50be-4626-919c-0a6db5667511.jpg?v=1595251554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring real dried leaves, these translucent earrings are perfect for the nature lover. Grown in the fields of the Taxco region in Mexico, botanical pieces are gathered by hand and preserved permanently in resin by skilled women artisans in Mexico. The natural properties of real leaves provides a one-of-a-kind look to each piece. </p><ul>
+<li>Earrings measure 2-inches long by .75-inch wide.</li>
+<li>Sterling silver hooks. </li>
+<li>Leaves are dried and then forever preserved in top-quality clear resin, giving the jewelry its vibrant, long-lasting appearance.</li>
+<li>The handmade nature of each piece may bring slight difference in actual leaf color.</li>
+</ul><p><span style="text-decoration: underline;"><strong>The story behind the art:</strong></span> </p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, alpaca silver, sterling silver, tumbaga gold and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163702685775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>UPEAELL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163701964879</id>
+    <published>2021-08-11T05:03:39-04:00</published>
+    <updated>2021-08-11T05:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-cuff-bracelet-wave"/>
+    <title>Alpaca Silver Wave Cuff Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/18ab1cb6-d85a-43f0-bb1e-8c6902226d54.jpg?v=1595251538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this wave cuff bracelet is skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately .5-inches wide.  </li>
+<li>Features a stylized wave design. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163701964879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>UPBTWS</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163701473359</id>
+    <published>2021-08-11T05:03:38-04:00</published>
+    <updated>2021-08-11T05:03:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-bracelet-mother-of-pearl-rings"/>
+    <title>Alpaca Silver Mother-of-Pearl Ring Link Bracelet</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/030f7b11-d2b6-4391-8c3c-0f9a8fb0bea6.jpg?v=1595251518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this Mother-of-Pearl circle link bracelet is skillfully made by women artisans in Mexico. An eye-catching statement piece! </p><ul>
+<li>Measures: Large circles measure approximately 1-inch.</li>
+<li>Bracelet measures approximately 8-inches. </li>
+<li>Toggle closure. </li>
+<li>Natural, iridescent sheen from Mother-of-Pearl shell. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163701473359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>UPBMOPR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+    <published>2021-08-11T05:03:37-04:00</published>
+    <updated>2021-08-11T05:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-wrap-ring-abalone"/>
+    <title>Alpaca Silver Wrap Ring, Abalone - Size 8</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/fabecde3-716e-4e6d-a540-f0749f51f500.jpg?v=1595251382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>6</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>7</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>8</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+    <published>2021-08-11T05:03:36-04:00</published>
+    <updated>2021-08-11T05:03:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-wrap-ring-turquoise"/>
+    <title>Alpaca Silver Wrap Ring, Turquoise - Size 8</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/c846d098-8e4f-4c6b-b363-188658a88778.jpg?v=1595251369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>6</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240 -6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>7</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>8</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4116719730767</id>
+    <published>2021-08-11T05:03:35-04:00</published>
+    <updated>2021-08-11T05:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-ring-abalone-and-silver-ellipse"/>
+    <title>Alpaca Silver Abalone Marquise Adjustable Ring</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/cb50aca7-67db-4dfa-92d2-5a1b5fb78f96_164d2fd7-d02e-4d6d-86ca-fbdf2f26dd46.jpg?v=1595251615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this adjustable ring features large abalone ellipse design. Skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Design approximately .75-inches in length by .5-inches wide. </li>
+<li>Adjustable sizing to fit most. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4116719730767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>UPRAELL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443411652687</id>
+    <published>2021-07-17T05:02:10-04:00</published>
+    <updated>2021-07-17T05:02:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/tree-of-life-hand-painted-24-inch-metal-wall-art-croix-des-bouquets"/>
+    <title>Tree of Life with Flock of Birds Haitian Steel Drum Wall Art, 24&quot;</title>
+    <s:type>Metal Wall Art</s:type>
+    <s:vendor>Croix des Bouquets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ae9d5072-1669-4819-8307-4a95de7e4183.jpg?v=1573231877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Croix des Bouquets<br>
+        <strong>Type: </strong>Metal Wall Art<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Wall Art </li>
+<li>Colors: Metallic</li>
+<li>Materials: Upcycled Steel Metal </li>
+<li>Finish: Painted </li>
+<li>Dimensions: Approx. 24" Diameter</li>
+<li>Care: If displaying outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+<li>Hanging Instructions: To hang metal art simply use pin head nails in the many nooks and spaces available in the design. If nails are shiny, you may want to darken heads with a black marker to help nails visually disappear.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. If handpainted, exact colors may vary, which speaks to the one-of-a-kind nature of each piece. Each piece of metal art whether painted or natural is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22-24 inch</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Painted</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Trees</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443411652687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>HMDPTREE-RR2-5</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4116168900687</id>
+    <published>2021-07-01T05:03:08-04:00</published>
+    <updated>2021-07-01T05:03:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/8-painted-gecko-recycled-haitian-metal-wall-art-blue-green-green-back-with-blue-tail"/>
+    <title>8&quot; Painted Gecko Recycled Haitian Metal Wall Art Blue Green, Green Back with Blue Tail</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Caribbean Craft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e050d47a-2b83-4b1a-a6cf-cebb819144ce.jpg?v=1589487371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caribbean Craft<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8 inch</s:tag>
+    <s:tag>Caribbean Craft</s:tag>
+    <s:tag>Gecko</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Painted</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4116168900687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>HMDBG99_76_535049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4620677709903</id>
+    <published>2021-06-18T05:04:22-04:00</published>
+    <updated>2021-06-18T05:04:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hummingbirds-and-flowers-painted-haitian-metal-drum-wall-art-24"/>
+    <title>Hummingbirds and Flowers Painted Haitian Metal Drum Wall Art, 24&quot;</title>
+    <s:type>Home</s:type>
+    <s:vendor>Haitian Artisans</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7ce9c99c-72d6-4841-9d53-0eb0e58a9da9.jpg?v=1589470920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haitian Artisans<br>
+        <strong>Type: </strong>Home<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Wall Art </li>
+<li>Materials: Upcycled Steel Metal</li>
+<li>Finish: Painted </li>
+<li>Dimensions: Approx. 24" Diameter</li>
+<li>Care: If displaying outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+<li>Hanging Instructions: To hang metal art simply use pin head nails in the many nooks and spaces available in the design. If nails are shiny, you may want to darken heads with a black marker to help nails visually disappear.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. If handpainted, exact colors may vary, which speaks to the one-of-a-kind nature of each piece. Each piece of metal art whether painted or natural is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24 inch</s:tag>
+    <s:tag>Birds</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Painted</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Trees</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4620677709903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>HMDPHMF_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4349602365519</id>
+    <published>2021-06-18T05:04:22-04:00</published>
+    <updated>2021-06-18T05:04:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/celtic-spring-tree-of-life"/>
+    <title>Celtic Spring Tree of Life Ringed Haitian Steel Drum Wall Art, 23&quot;</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Haitian Artisans</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/55bf307b-261e-459f-a445-541c7e2c8d61_ae8e012f-2d1f-40d6-b721-935cd0fa9bd6.jpg?v=1573231971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haitian Artisans<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Wall Art </li>
+<li>Colors: Metallic</li>
+<li>Materials: Upcycled Steel Metal </li>
+<li>Finish: Lacquer </li>
+<li>Dimensions: Approx. 24" Diameter</li>
+<li>Care: If displaying outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+<li>Hanging Instructions: To hang metal art simply use pin head nails in the many nooks and spaces available in the design. If nails are shiny, you may want to darken heads with a black marker to help nails visually disappear.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. If handpainted, exact colors may vary, which speaks to the one-of-a-kind nature of each piece. Each piece of metal art whether painted or natural is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22-24 inch</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Trees</s:tag>
+    <s:tag>Unpainted</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4349602365519</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>HMDTREE12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4349599023183</id>
+    <published>2021-06-18T05:04:21-04:00</published>
+    <updated>2021-06-18T05:04:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/autumn-spiral-tree-of-life"/>
+    <title>Autumn Spiral Tree of Life Haitian Steel Drum Wall Art, 24&quot;</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Haitian Artisans</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/00feee3a-bf4f-45fb-a5e4-f369db6c43c0_b89499d5-dfa7-4526-971f-af8029832a98.jpg?v=1573231870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haitian Artisans<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Wall Art </li>
+<li>Colors: Metallic</li>
+<li>Materials: Upcycled Steel Metal </li>
+<li>Finish: Painted </li>
+<li>Dimensions: Approx. 24" Diameter</li>
+<li>Care: If displaying outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+<li>Hanging Instructions: To hang metal art simply use pin head nails in the many nooks and spaces available in the design. If nails are shiny, you may want to darken heads with a black marker to help nails visually disappear.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. If handpainted, exact colors may vary, which speaks to the one-of-a-kind nature of each piece. Each piece of metal art whether painted or natural is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22-24 inch</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Painted</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Trees</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4349599023183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>HMDPSPIR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443546656847</id>
+    <published>2021-06-18T05:04:20-04:00</published>
+    <updated>2021-06-18T05:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hammered-metal-container-with-round-handles-croix-des-bouquets"/>
+    <title>Hammered Steel Bowl with Round Handles, Haitian Drum Tabletop Décor, 6&quot; x 5&quot;</title>
+    <s:type>Home decor</s:type>
+    <s:vendor>Croix des Bouquets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/3133d4a6-4612-4e12-95d3-5ab2bc38c4de.jpg?v=1573231510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Croix des Bouquets<br>
+        <strong>Type: </strong>Home decor<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Table Decor </li>
+<li>Colors: Metallic</li>
+<li>Materials: Upcycled Steel Metal </li>
+<li>Finish: Lacquer </li>
+<li>Dimensions: Approx. 6" x 5"</li>
+<li>Care: If using outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. Each piece of art is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accents</s:tag>
+    <s:tag>Decorative Objects</s:tag>
+    <s:tag>Entertaining</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Home Decor</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:tag>Kitchen &amp; Tabletop</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443546656847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>HMDBWLSM</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443542986831</id>
+    <published>2021-06-18T05:04:18-04:00</published>
+    <updated>2021-06-18T05:04:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/dancing-tree-of-life-wall-art-croix-des-bouquets"/>
+    <title>Dancing Tree of Life Haitian Steel Drum Wall Art, 24&quot;</title>
+    <s:type>Metal Wall Art</s:type>
+    <s:vendor>Croix des Bouquets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/997b870f-60ec-4700-bdfa-59cb556520b6.jpg?v=1573231995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Croix des Bouquets<br>
+        <strong>Type: </strong>Metal Wall Art<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from recycled 55-gallon steel drums by village artisans in Haiti, these stunning pieces of art are truly one-of-a-kind! The process of turning sheets of metal into beautiful art is all done by hand. Steel drums used to transport oil into the capital of Haiti are cut, the oil is burned off to clean the metal, and then flattened in order to create stunning, upcycled art. Suitable for Indoor or Outdoor Use.  </p><ul>
+<li>Type: Metal Wall Art </li>
+<li>Colors: Metallic</li>
+<li>Materials: Upcycled Steel Metal </li>
+<li>Finish: Lacquer </li>
+<li>Dimensions: Approx. 24" Diameter</li>
+<li>Care: If displaying outdoors it is recommended to spray with a clear lacquer once or twice a year, as prolonged exposure to the elements will cause rust.</li>
+<li>Hanging Instructions: To hang metal art simply use pin head nails in the many nooks and spaces available in the design. If nails are shiny, you may want to darken heads with a black marker to help nails visually disappear.</li>
+</ul><p><em>Given the handmade nature of this product please allow for minor variations. As the metal is recovered from recycled oil drums and colored through a burning process it will vary slightly in coloration. Typically the piece has a darkened steel patina. If handpainted, exact colors may vary, which speaks to the one-of-a-kind nature of each piece. Each piece of metal art whether painted or natural is coated with a layer of clear lacquer to help protect the metal.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>22-24 inch</s:tag>
+    <s:tag>Haiti</s:tag>
+    <s:tag>Haitian Metal Art</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Trees</s:tag>
+    <s:tag>Unpainted</s:tag>
+    <s:tag>Upcycled</s:tag>
+    <s:tag>V:Croix des Bouquets</s:tag>
+    <s:tag>Wall Art</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443542986831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>HMDTREE20</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/key-rings.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-07-16T05:03:20-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350345347151</id>
+    <published>2021-07-16T05:03:20-04:00</published>
+    <updated>2021-07-16T05:03:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-keychain-from-nepal-dinosaur-blue"/>
+    <title>Hand Crafted Felt Keychain from Nepal: Dinosaur, Blue</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ed84b586-f1e8-40c0-a34f-89462a66bfef_162426f8-fb20-4505-b400-b30dbb5461e5.jpg?v=1603372043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted dinosaur is inches in size, made from natural wool and colored with azo-free dyes.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boy</s:tag>
+    <s:tag>Dinosaurs</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350345347151</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>GLG60057-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/2443540201551</id>
+    <published>2021-04-07T05:06:36-04:00</published>
+    <updated>2021-04-07T05:06:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/felt-avocado-key-chain-global-groove"/>
+    <title>Felt Avocado Key Chain</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>Global Groove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/57a40da8-5534-48a4-82a2-105401879444_eeeb1532-6469-4cbb-ac8a-259858d1aed4.jpg?v=1603371919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avocados are delicious and great for many things. Now you can carry this handmade felt avocado around on your key chain! 4.5"x3".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Key Rings</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/2443540201551</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>GLG60008-01-241469</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350343905359</id>
+    <published>2021-02-03T05:08:10-05:00</published>
+    <updated>2021-02-03T05:08:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-key-chain-sloth"/>
+    <title>Hand Crafted Felt from Nepal: Key Chain, Sloth</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/cbcca858-c348-43eb-9c49-a3f9ea359e75_8aae766e-dae6-400d-8c2c-d132d3ef79e0.jpg?v=1603372033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This friendly sloth helps remind you to slow down and enjoy the little things in life. Handmade in Nepal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Key Rings</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350343905359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>GLG60049-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4116408598607</id>
+    <published>2021-02-03T05:07:49-05:00</published>
+    <updated>2021-02-03T05:07:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-from-nepal-key-chain-purple-unicorn"/>
+    <title>Hand Crafted Felt from Nepal: Key Chain, Purple Unicorn</title>
+    <s:type>Keychain</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/5f4c9e29-6386-4241-9c5a-99b3e415f4f5.jpg?v=1603371519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Keychain<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Saddle up and add this handmade felt key chain to any key chain or key ring. The mane and tail feature a dreamy lavender color. It measures 4 x 2.5.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Key Rings</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4116408598607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GLG40014-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4350345150543</id>
+    <published>2020-10-09T05:07:16-04:00</published>
+    <updated>2020-10-09T05:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/hand-crafted-felt-keychain-from-nepal-t-rex-green"/>
+    <title>Hand Crafted Felt Keychain from Nepal: T-Rex, Green</title>
+    <s:type>Kids</s:type>
+    <s:vendor>Global Groove Direct</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/ac9938a8-fa61-43e9-b833-d7b3e4b72229_50e12d63-7c5d-4479-9d29-e8987465046c.jpg?v=1603372041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Groove Direct<br>
+        <strong>Type: </strong>Kids<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This felted dinosaur is inches in size, made from natural wool and colored with azo-free dyes.  Handmade in Nepal by a women's cooperative.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boy</s:tag>
+    <s:tag>Dinosaurs</s:tag>
+    <s:tag>Eco-Friendly</s:tag>
+    <s:tag>Felt</s:tag>
+    <s:tag>Global Groove Life</s:tag>
+    <s:tag>Key Rings</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Nepal</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sustainably Sourced</s:tag>
+    <s:tag>V:Global Groove Life</s:tag>
+    <s:tag>Whimsical</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4350345150543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>GLG60056-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

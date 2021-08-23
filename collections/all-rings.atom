@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/all-rings.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-08-11T05:03:45-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4513470677071</id>
+    <published>2021-08-11T05:03:45-04:00</published>
+    <updated>2021-08-11T05:03:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/wide-red-jasper-and-silver-ring-size-8"/>
+    <title>Alpaca Silver Wrap Red Jasper Ring - Size 8</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/f5403937-5c7f-44d9-95a8-db5d64161894_c0ab1a7d-6564-4bae-b2a6-47bb87c6bf38.jpg?v=1595251475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this statement ring features man-made red jasper. Skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Approximately 1-inch in length by .75-inches wide. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4513470677071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>UP2020243-8_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+    <published>2021-08-11T05:03:37-04:00</published>
+    <updated>2021-08-11T05:03:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-wrap-ring-abalone"/>
+    <title>Alpaca Silver Wrap Ring, Abalone - Size 8</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/fabecde3-716e-4e6d-a540-f0749f51f500.jpg?v=1595251382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>6</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>7</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698884687</id>
+      <title>8</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019241-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+    <published>2021-08-11T05:03:36-04:00</published>
+    <updated>2021-08-11T05:03:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/alpaca-silver-wrap-ring-turquoise"/>
+    <title>Alpaca Silver Wrap Ring, Turquoise - Size 8</title>
+    <s:type>Misc</s:type>
+    <s:vendor>UPA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/c846d098-8e4f-4c6b-b363-188658a88778.jpg?v=1595251369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UPA<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>6</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240 -6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>7</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4163698851919</id>
+      <title>8</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>UP2019240-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4116719730767</id>
+    <published>2021-08-11T05:03:35-04:00</published>
+    <updated>2021-08-11T05:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/mexican-taxco-silver-ring-abalone-and-silver-ellipse"/>
+    <title>Alpaca Silver Abalone Marquise Adjustable Ring</title>
+    <s:type>Misc</s:type>
+    <s:vendor>V:Artisana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/cb50aca7-67db-4dfa-92d2-5a1b5fb78f96_164d2fd7-d02e-4d6d-86ca-fbdf2f26dd46.jpg?v=1595251615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V:Artisana<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted in high-quality alpaca silver, this adjustable ring features large abalone ellipse design. Skillfully made by women artisans in Mexico.  </p><ul>
+<li>Measures: Design approximately .75-inches in length by .5-inches wide. </li>
+<li>Adjustable sizing to fit most. </li>
+<li>The handcrafted nature of this product will produce minor differences in design, sizing and weight. Variations will occur from piece to piece, measurements may vary slightly.</li>
+</ul><p><strong><span style="text-decoration: underline;">The Story Behind the Art:</span></strong></p><p>Renowned for its rich history and Old World beauty, Taxco, Mexico is known for it's masterful silver artistry, using high-quality sterling silver or alpaca silver. The Artisana Collection represents work from multiple artists in this famous region of Mexico, offering a wide range of styles from traditional to more whimsical, using beautiful, natural materials such as abalone shell, mother-of-pearl, flowers, and more to create one-of-a-kind pieces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artisana</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Mexico</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Artisana</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4116719730767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>UPRAELL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4121503170639</id>
+    <published>2021-03-20T05:06:10-04:00</published>
+    <updated>2021-03-20T05:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/ring-black-druzy-agate-stone"/>
+    <title>Ring: Black Druzy Agate Stone</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Starfish Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/d3826c2c-ef61-4874-84ed-3362f1bd248e_9e9a3674-dc0c-445e-b6eb-a38b7b8bf12e.jpg?v=1573235680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starfish Project<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black druzy agate stone with 14-k gold layered over copper.   One size fits most. Oval measures just over .25 inches long. Hypoallergenic; lead and cadmium free with nickel content less than 100 ppm.
+This purchase transforms lives. Jewelry proceeds help exploited women and girls experience freedom, establish independence and develop careers. 
+Helpful Tips:  Keep jewelry away from water and harsh chemicals; store separately in a soft pouch. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asia</s:tag>
+    <s:tag>Boho Jewelry</s:tag>
+    <s:tag>Boho Rings</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>Starfish Project</s:tag>
+    <s:tag>V:Starfish Project</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4121503170639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>YJSRDBL</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4121502548047</id>
+    <published>2021-03-20T05:06:09-04:00</published>
+    <updated>2021-03-20T05:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/ring-white-druzy-agate-stone"/>
+    <title>Ring: White Druzy Agate Stone</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Starfish Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/57a5e920-8daa-4c2b-ad49-d895130e1383_79adaaea-6242-4a82-8bec-1a906665706b.jpg?v=1573235677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starfish Project<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold plated brass ring with black druzy agate stone. One size fits most</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asia</s:tag>
+    <s:tag>Boho Jewelry</s:tag>
+    <s:tag>Boho Rings</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>Starfish Project</s:tag>
+    <s:tag>V:Starfish Project</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4121502548047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>YJSRDWH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793014351</id>
+    <published>2021-02-03T05:08:14-05:00</published>
+    <updated>2021-02-03T05:08:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/honeybee-adjustable-ring"/>
+    <title>Honeybee Adjustable Ring</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/033e834c-470c-4874-a1d6-e0c044dc3c90.jpg?v=1598910894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The honeybee, whose world revolves around its colony, is a reminder to keep focused on creating harmony in our family and community. This brass honeybee ring is a great reminder that everything is going to "bee" okay!</p><ul>
+<li> Adjustable size. </li>
+<li>Brass, Silver plate with black antique finish.</li>
+</ul><p> <strong>The story behind the art:</strong> </p><p>Re-imagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793014351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>IX10ORX9077</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776794193999</id>
+    <published>2020-09-10T05:06:09-04:00</published>
+    <updated>2020-09-10T05:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/floral-abstract-adjustable-brass-ring"/>
+    <title>Floral Abstract Adjustable Brass Ring</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/c9db236d-aa80-47f5-82f4-f627668169a0.jpg?v=1598910992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bold and chunky geometric statement ring features rounded square edges framing a patterned flower center. </p><ul><li>Brass.  </li></ul><p><strong>The story behind the art:</strong></p><p> Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776794193999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.49</s:price>
+      <s:sku>IX10ORX9259</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776794095695</id>
+    <published>2020-09-10T05:06:08-04:00</published>
+    <updated>2020-09-10T05:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/domed-adjustable-brass-ring"/>
+    <title>Domed Adjustable Brass Ring</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/33cc3253-11f8-4de4-aac6-9f90dc986241.jpg?v=1598910977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bold and chunky, this geometric adjustable statement ring adds a little boho flair with it's domed circle style. </p><ul>
+<li>Brass.</li>
+<li>Adjustable</li>
+<li>Design measures approximately 1.33-inches in height by .75-inches in diameter. </li>
+</ul><p><strong>The story behind the art:</strong> </p><p>Re-imagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776794095695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.49</s:price>
+      <s:sku>IX10ORX9257</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

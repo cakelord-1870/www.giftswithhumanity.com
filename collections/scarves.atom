@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/scarves.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-05-15T05:06:08-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331548934223</id>
+    <published>2021-05-15T05:06:08-04:00</published>
+    <updated>2021-05-15T05:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/printed-ikat-diamond-design-cotton-scarf"/>
+    <title>Hand-printed Cotton Scarf, Ikat Diamond Design</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/7ad68a3d-7208-4bf8-9d06-41227707aa99_f7bed642-95e5-404c-a1cb-705a92a11741.jpg?v=1573233139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand crafted 100 percent cotton scarf made in India using traditional techniques. Lightweight and soft texture. Measures 71 inches long by 19 inches wide. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331548934223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX15KHX6117_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331550507087</id>
+    <published>2021-02-03T05:08:09-05:00</published>
+    <updated>2021-02-03T05:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/dyed-rust-and-cream-cotton-scarf-with-fringes"/>
+    <title>Hand-dyed Cotton Scarf, Rust &amp; Cream with Fringe</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/61da046d-36db-4a46-8c77-8b406e4a92de_82d44060-b439-4918-9465-8c9f66547846.jpg?v=1573233159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand crafted 100 percent cotton scarf made in India using traditional techniques. Lightweight and soft texture. Measures 71 inches long by 19 inches wide. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331550507087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX15KHX8095_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331549163599</id>
+    <published>2021-02-03T05:08:08-05:00</published>
+    <updated>2021-02-03T05:08:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/printed-purple-tree-of-life-design-cotton-scarf"/>
+    <title>Hand-printed Cotton Scarf, Tree of Life Design</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/43aa03c7-5f77-4cdf-8a62-bb20cd87210b_ec3bcc9d-6925-4849-9f3a-d8990b0124c7.jpg?v=1573233145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand crafted 100 percent cotton scarf made in India using traditional techniques. Lightweight and soft texture. Measures 71 inches long by 19 inches wide. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331549163599</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX15KHX6125_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331549851727</id>
+    <published>2019-10-31T10:30:52-04:00</published>
+    <updated>2019-10-31T10:30:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/printed-dark-abstract-design-cotton-scarf"/>
+    <title>Hand-printed Cotton Scarf, Abstract Design</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/d15dffeb-e548-4553-a3ed-3eee1f08aa3f_558d7dd1-93e9-4404-9433-f2285538f4f6.jpg?v=1573233154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand crafted 100 percent cotton scarf made in India using traditional techniques. Lightweight and soft texture. Measures 71 inches long by 19 inches wide. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331549851727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX15KHX7106_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4331549392975</id>
+    <published>2019-10-31T10:30:24-04:00</published>
+    <updated>2019-10-31T10:30:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/printed-birds-design-cotton-scarf"/>
+    <title>Hand-printed Cotton Scarf, Birds Design</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/2badc0ab-cf42-43e3-8cdd-dbeb0df83501_cc5c007e-ae85-4104-b8ca-737c2d9f66ae.jpg?v=1573233148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hand crafted 100 percent cotton scarf made in India using traditional techniques. Lightweight and soft texture. Measures 71 inches long by 19 inches wide. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Scarves</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4331549392975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX15KHX6157_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

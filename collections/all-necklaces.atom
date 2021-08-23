@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giftswithhumanity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giftswithhumanity.com/collections/all-necklaces.atom"/>
+  <title>Gifts With Humanity</title>
+  <updated>2021-03-20T05:06:11-04:00</updated>
+  <author>
+    <name>Gifts With Humanity</name>
+  </author>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4121505038415</id>
+    <published>2021-03-20T05:06:11-04:00</published>
+    <updated>2021-03-20T05:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/necklace-14k-gold-plated-leaf-pendant-with-chain"/>
+    <title>Necklace: 14k Gold Plated Leaf Pendant with Chain</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Starfish Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/2baf2e38-4d59-4b6d-a011-0c93f47c585f_d1d3d625-42fc-4c67-9fdf-86badf74e52e.jpg?v=1573235691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starfish Project<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Handcrafted 14k gold-plated necklace, chain with leaf pendant.  </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asia</s:tag>
+    <s:tag>Boho Jewelry</s:tag>
+    <s:tag>Boho Necklaces</s:tag>
+    <s:tag>China</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Starfish Project</s:tag>
+    <s:tag>V:Starfish Project</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4121505038415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>YJSNCLF</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793702479</id>
+    <published>2021-03-11T05:08:10-05:00</published>
+    <updated>2021-03-11T05:08:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/elephant-pendant-brass-chain-necklace"/>
+    <title>Elephant Pendant Brass Chain Necklace</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/742a4c6b-fe79-4c71-a9eb-a4f56e694f8f.jpg?v=1598910935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stylized elephant is sure to add a little good luck along with minimalist charm to every outfit. Perfect for your casual work-from-home style. </p><ul>
+<li>Measures approximately 27.25-inches in length. </li>
+<li>Brass.</li>
+<li>Polished finish, which may contain minor nuances. This gives each piece unique detail to the charm and should not be considered a defect in craftsmanship. </li>
+</ul><p><strong>The story behind the art:</strong> </p><p>Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793702479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.49</s:price>
+      <s:sku>IX10ORX9096</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4834465120335</id>
+    <published>2020-12-22T11:22:49-05:00</published>
+    <updated>2020-12-22T11:22:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/face-mask-eyeglass-paper-bead-chain-colorful-round-beads"/>
+    <title>Face Mask/Eyeglass Paper Bead Chain, Colorful Round Beads</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/4951c7e1-1726-421c-a496-cdd3f7e67b01.jpg?v=1608672178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a next-level vibe to your face mask or eyeglasses with this stylish chain clasp made from recycled paper beads!  Apart from being another pretty accessory, they help keep your face masks on at all times - while solving the ear-dangle or chin-strap situation when temporarily pulling off your mask.  A colorful way to jazz up your socially responsible style! </p><ul>
+<li>Paper bead chain measures approximately 33-inches (84 cm) in length</li>
+<li>Brass lobster clasp 1/2 inch (1.2 cm) for securing mask ends and rubber stays to attach to eye glass arms. </li>
+<li>Made from recycled paper beads. Colors will vary, but will be in the color family listed in title.</li>
+<li>MASK NOT INCLUDED. </li>
+</ul><p><strong>The Story Behind the Art:</strong></p><p>These unique paper beads are made in Kisumu, Kenya by talented artisans who upcycle discarded magazines and papers, transforming them into functional and stylish jewelry and accessories. The papers are torn and then rolled to form the beads. Once complete, the paper beads are sealed in many coats of glossy, water-based varnish. Because of the wide variety of recycled paper goods used, the handmade beads can come in all sizes, shapes, colors and patterns - truly speaking to the one-of-a-kind nature of each piece. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4834465120335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>KJPC04</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4834464989263</id>
+    <published>2020-12-22T11:21:39-05:00</published>
+    <updated>2020-12-22T11:21:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/face-mask-eyeglass-paper-bead-chain-colorful-mixed-shapes"/>
+    <title>Face Mask/Eyeglass Paper Bead Chain, Colorful Mixed Shapes</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/900e0bce-3c2e-4062-86d5-bc7ae8db54b6.jpg?v=1608672111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a next-level vibe to your face mask or eyeglasses with this stylish chain clasp made from recycled paper beads!  Apart from being another pretty accessory, they help keep your face masks on at all times - while solving the ear-dangle or chin-strap situation when temporarily pulling off your mask.  A colorful way to jazz up your socially responsible style! </p><ul>
+<li>Paper bead chain measures approximately 33-inches (84 cm) in length</li>
+<li>Brass lobster clasp 1/2 inch (1.2 cm) for securing mask ends and rubber stays to attach to eye glass arms. </li>
+<li>Made from recycled paper beads. Colors will vary, but will be in the color family listed in title.</li>
+<li>MASK NOT INCLUDED</li>
+</ul><p><strong>The Story Behind the Art:</strong></p><p>These unique paper beads are made in Kisumu, Kenya by talented artisans who upcycle discarded magazines and papers, transforming them into functional and stylish jewelry and accessories. The papers are torn and then rolled to form the beads. Once complete, the paper beads are sealed in many coats of glossy, water-based varnish. Because of the wide variety of recycled paper goods used, the handmade beads can come in all sizes, shapes, colors and patterns - truly speaking to the one-of-a-kind nature of each piece. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4834464989263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>KJPC03</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4834464825423</id>
+    <published>2020-12-22T11:19:08-05:00</published>
+    <updated>2020-12-22T11:19:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/face-mask-eyeglass-paper-bead-chain-small-black-beads"/>
+    <title>Face Mask/Eyeglass Paper Bead Chain, Small Black Beads</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/226afedd-fbe5-45a6-b646-71037f5f6655.jpg?v=1608671955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a next-level vibe to your face mask or eyeglasses with this stylish chain clasp made from recycled paper beads!  Apart from being another pretty accessory, they help keep your face masks on at all times - while solving the ear-dangle or chin-strap situation when temporarily pulling off your mask.  A colorful way to jazz up your socially responsible style! </p><ul>
+<li>Paper bead chain measures approximately 33-inches (84 cm) in length</li>
+<li>Brass lobster clasp 1/2 inch (1.2 cm) for securing mask ends and rubber stays to attach to eye glass arms. </li>
+<li>Made from recycled paper beads. Colors will vary, but will be in the color family listed in title.</li>
+<li>MASK NOT INCLUDED</li>
+</ul><p><strong>The Story Behind the Art:</strong></p><p>These unique paper beads are made in Kisumu, Kenya by talented artisans who upcycle discarded magazines and papers, transforming them into functional and stylish jewelry and accessories. The papers are torn and then rolled to form the beads. Once complete, the paper beads are sealed in many coats of glossy, water-based varnish. Because of the wide variety of recycled paper goods used, the handmade beads can come in all sizes, shapes, colors and patterns - truly speaking to the one-of-a-kind nature of each piece. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4834464825423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>KJPC01_GWH</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4834464890959</id>
+    <published>2020-11-20T09:05:20-05:00</published>
+    <updated>2020-11-20T09:05:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/face-mask-eyeglass-paper-bead-chain-black-and-red"/>
+    <title>Face Mask/Eyeglass Paper Bead Chain, Black and Red</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Creative Alternatives</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/55b9de82-fb15-47ec-a4e5-7a152ac06a4e_7bc9af94-31f8-436b-87df-838ddd355b07.jpg?v=1605899129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Alternatives<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a next-level vibe to your face mask or eyeglasses with this stylish chain clasp made from recycled paper beads!  Apart from being another pretty accessory, they help keep your face masks on at all times - while solving the ear-dangle or chin-strap situation when temporarily pulling off your mask.  A colorful way to jazz up your socially responsible style! </p><ul>
+<li>Paper bead chain measures approximately 33-inches (84 cm) in length</li>
+<li>Brass lobster clasp 1/2 inch (1.2 cm) for securing mask ends and rubber stays to attach to eye glass arms. </li>
+<li>Made from recycled paper beads. Colors will vary, but will be in the color family listed in title.</li>
+</ul><p><strong>The Story Behind the Art:</strong></p><p>These unique paper beads are made in Kisumu, Kenya by talented artisans who upcycle discarded magazines and papers, transforming them into functional and stylish jewelry and accessories. The papers are torn and then rolled to form the beads. Once complete, the paper beads are sealed in many coats of glossy, water-based varnish. Because of the wide variety of recycled paper goods used, the handmade beads can come in all sizes, shapes, colors and patterns - truly speaking to the one-of-a-kind nature of each piece. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Creative Alternatives</s:tag>
+    <s:tag>Eco-Conscious</s:tag>
+    <s:tag>Faire</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>V:Creative Alternatives</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4834464890959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>KJPC02_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4823021453391</id>
+    <published>2020-11-02T10:04:56-05:00</published>
+    <updated>2020-11-02T10:04:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/floating-stone-maasai-bead-necklace-rust"/>
+    <title>Floating Stone &amp; Maasai Bead Necklace, Rust</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/08130352-aa1a-4ed0-b7e0-57e44ad006ac.jpg?v=1604347504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by Maasai women in Kenya, this illusion necklace features brightly colored stones with Maasai bead accents, creating the perfect summertime accessory!  Each necklace is totally unique - so no two are exactly alike!</p><ul>
+<li>Measures 18" - 20" </li>
+<li>Barrel clasp</li>
+</ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4823021453391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>KWJMSN-RU</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776794456143</id>
+    <published>2020-09-10T05:06:10-04:00</published>
+    <updated>2020-09-10T05:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/crescent-moon-goldtone-pendant-necklace"/>
+    <title>Crescent Moon Goldtone Pendant Necklace</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/1083c958-c01a-4604-92fc-3eefa5d7c8c9.jpg?v=1598911006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This delicate crescent moon pendant adds eye-catching style either worn alone or layered. </p><ul>
+<li>Brass. </li>
+<li>Measures approximately 25.25-inches in length.</li>
+</ul><p> <strong>The story behind the art:</strong></p><p> Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776794456143</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>IX10PIX9089</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776792883279</id>
+    <published>2020-09-10T05:06:04-04:00</published>
+    <updated>2020-09-10T05:06:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/cone-pendant-goldtone-neckace"/>
+    <title>Cone Pendant Goldtone Neckace</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/958b794e-8659-47b6-8c9d-2017d6ecf515.jpg?v=1598910874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This artfully made pendant necklace is featured on a long chain, a perfect statement piece. Chain measures 20-inches with a 3-inch extender. Pendant measures approximately 1.5-inches to 2-inches in length. </p><p><strong>The story behind the art:</strong> </p><p>Re-imagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by  artisans in village communities in India, often times using eco-friendly materials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776792883279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>IX10HFX9071</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779865342031</id>
+    <published>2020-09-04T09:27:15-04:00</published>
+    <updated>2020-09-04T09:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/multistrand-maasai-bead-necklace-white-and-gold"/>
+    <title>Multistrand Maasai Bead Necklace, White and Gold</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/65c0c86d-46e4-4afa-a71c-3fcb8f0ea036.jpg?v=1599240446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This multi-strand bead necklace is made by hand by the Maasai women in Kenya. No two are exactly alike, making each piece a truly unique work of art!</p><ul><li>Approximately 22-inches long. </li></ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779865342031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>KWJSN01-CR_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779865014351</id>
+    <published>2020-09-04T09:26:57-04:00</published>
+    <updated>2020-09-04T09:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/multistrand-maasai-bead-necklace-lapis-blue-and-gold"/>
+    <title>Multistrand Maasai Bead Necklace, Lapis Blue and Gold</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/8dab503a-fe0c-423e-99f8-f7413ac19eee.jpg?v=1599240429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This multi-strand bead necklace is made by hand by the Maasai women in Kenya. No two are exactly alike, making each piece a truly unique work of art!</p><ul><li>Approximately 22-inches long.</li></ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779865014351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>KWJSN01-BG_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779864784975</id>
+    <published>2020-09-04T09:26:38-04:00</published>
+    <updated>2020-09-04T09:26:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/floating-stone-and-maasai-bead-necklace-yellow"/>
+    <title>Floating Stone and Maasai Bead Necklace, Yellow</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/047378a2-70f3-4166-8bcc-8661a1ea2004.jpg?v=1599240412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by Maasai women in Kenya, this illusion necklace features brightly colored stones with Maasai bead accents, creating the perfect summertime accessory!  Each necklace is totally unique - so no two are exactly alike!</p><ul>
+<li>Measures 18" - 20" </li>
+<li>Barrel clasp</li>
+</ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779864784975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>KWJMSN-YW_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779864358991</id>
+    <published>2020-09-04T09:26:25-04:00</published>
+    <updated>2020-09-04T09:26:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/floating-stone-and-maasai-bead-necklace-turquoise"/>
+    <title>Floating Stone and Maasai Bead Necklace, Turquoise</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/c6a3b41f-26d5-47cc-9b93-c84541591f5a.jpg?v=1599240392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by Maasai women in Kenya, this illusion necklace features brightly colored stones with Maasai bead accents, creating the perfect summertime accessory!  Each necklace is totally unique - so no two are exactly alike!</p><ul>
+<li>Measures 18" - 20" </li>
+<li>Barrel clasp</li>
+</ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779864358991</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>KWJMSN-TQ_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4779864195151</id>
+    <published>2020-09-04T09:26:07-04:00</published>
+    <updated>2020-09-04T09:26:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/floating-stone-maasai-bead-necklace-navy"/>
+    <title>Floating Stone &amp; Maasai Bead Necklace, Navy</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Jedando</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/044104f4-0915-4b6a-a976-59bde6e784d6.jpg?v=1599240379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jedando<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handmade by Maasai women in Kenya, this illusion necklace features brightly colored stones with Maasai bead accents, creating the perfect summertime accessory!  Each necklace is totally unique - so no two are exactly alike!</p><ul>
+<li>Measures 18" - 20" </li>
+<li>Barrel clasp</li>
+</ul><p>Maasai beadwork embodies the whole of Maasai culture representing beauty, strength, tradition, warriorhood, social status and their deep love and devotion for their cattle.  The age old artform is practiced by women of the village who learn from their mothers, who learned from their mothers.  The women take small glass beads that are laid out on trays and string onto clear threading.  From here the designs and beauty explode to create bracelets, earrings, and necklaces.</p><p class="">Did you know each color has a symbolic meaning for the tribe?</p><ul>
+<li class="">Red stands for bravery, unity and blood.  The red is for the slaughtered cow.</li>
+<li class="">White is for the peace, purity and health.</li>
+<li class="">Blue, signifies the energy and the sky. They believe that with the rainfall it is able to feed their cattle’s and provide proper infrastructure for them.</li>
+<li class="">Orange and Yellow reflect hospitality. Visitors are served cow’s milk from orange gourds.</li>
+<li class="">Green like the earth symbolizes health and land.</li>
+<li class="">Black represents the people and the struggles they endure.</li>
+</ul><p>All jewelry is crafted by women of the Maasai tribe in rural Kenya.  Fair Trade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jedando African Handicrafts</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Kenya</s:tag>
+    <s:tag>Maasai</s:tag>
+    <s:tag>Masaii</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Jedando African Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4779864195151</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>KWJMSN-DB_GWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giftswithhumanity.com/products/4776793899087</id>
+    <published>2020-08-31T13:55:55-04:00</published>
+    <updated>2020-08-31T13:55:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giftswithhumanity.com/products/jali-floral-turquoise-pendant-brass-necklace"/>
+    <title>Jali Floral Turquoise Pendant Brass Necklace</title>
+    <s:type>Misc</s:type>
+    <s:vendor>Asha Handicrafts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0805/5707/products/e1ae83c7-fe4b-4c12-b57e-135cca93ad43.jpg?v=1598910964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Asha Handicrafts<br>
+        <strong>Type: </strong>Misc<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Combining modern styling with India tradition, this handcrafted jali pattern (openwork motif) round pendant is accented with a man-made turquoise center. </p><ul>
+<li>Measures approximately 28.5-inches in length. </li>
+<li>Brass.</li>
+</ul><p> <strong>The story behind the art:</strong> </p><p>Reimagining the aesthetics of sustainable, ethical fashion, this collection of jewelry is handmade by artisans in village communities in India, often times using eco-friendly materials.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Asha Handicrafts</s:tag>
+    <s:tag>Boho</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>V:Asha Handicrafts</s:tag>
+    <s:variant>
+      <id>https://www.giftswithhumanity.com/products/4776793899087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>IX10ORX9248</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>
